@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 500px;
+    width: 100%;
+}
+.background{
+    height: 300px;
+    width: 350px;
+    background: blue;
+    margin-left: 5%;
+    margin-top: 100px;
+    border-radius: 20px;
+}
+#input{
+    height: 50px;
+    width: 300px;
+    margin-left: 7%;
+    margin-top: 20px;
+    background: white;
+    color: black;
+    font-size: 30px;
+}
+.div1{
+    margin-top: 10px;
+    margin-left: 24px;
+}
+.div2{
+    float: left;
+}
+/* #mc>button{
+    height: ;
+
+} */
+.div1>button{
+height: 30px;
+width: 58px;
+border-radius: 5px;
+}
+.div3>button{
+    height: 30px;
+    width: 58px;
+    border-radius: 5px;
+
+}
+.div4{
+    margin-left: 0px;
+}
+#plus{
+    margin-left: 5px;
+    height: 70px;
+    width: 57px;
+
+}
+button:hover{
+    cursor: pointer;
+    background: greenyellow;
+    color: white;
+    
+}
+button{
+    font-size: 20px;
+}
